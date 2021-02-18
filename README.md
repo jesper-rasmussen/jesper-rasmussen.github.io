@@ -11,5 +11,5 @@ Kowal, M., Coll‐Martín, T., Ikizer, G., Rasmussen, J., Eichel, K., Studzińsk
 
 Lieberoth, A., Lin, S.-Y., Stöckli, S., Han, H., Kowal, M., Gelpi, R., Chrona, S., Tran, T. P., Jeftić, A., Rasmussen, J., Cakal, H., & Milfont, T. L. (2021). [Stress and worry in the 2020 coronavirus pandemic: Relationships to trust and compliance with preventive measures across 48 countries in the COVIDiSTRESS global survey.](https://doi.org/10.1098/rsos.200589) Royal Society Open Science, 8(2), 200589.
 
-Yamada, Y., Ćepulić, D.-B., Coll-Martín, T., Debove, S., Gautreau, G., Han, H., Rasmussen, J., Tran, T. P., Travaglino, G. A., & Lieberoth, A. (2021). [COVIDiSTRESS Global Survey dataset on psychological and behavioural consequences of the COVID-19 outbreak.]((https://doi.org/10.1038/s41597-020-00784-9) Scientific Data, 8(1), 3.
+Yamada, Y., Ćepulić, D.-B., Coll-Martín, T., Debove, S., Gautreau, G., Han, H., Rasmussen, J., Tran, T. P., Travaglino, G. A., & Lieberoth, A. (2021). [COVIDiSTRESS Global Survey dataset on psychological and behavioural consequences of the COVID-19 outbreak.](https://doi.org/10.1038/s41597-020-00784-9) Scientific Data, 8(1), 3.
 
