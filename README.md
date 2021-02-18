@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+[//]: # Det her er overskriften
+# Jesper Rasmussen
 
-You can use the [editor on GitHub](https://github.com/jesper-rasmussen/jesper-rasmussen.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I am a PhD Fellow at Department of Political Science at Aarhus University. [My project](http://pure.au.dk/portal/en/jr@ps.au.dk) is a part of the [Research on Online Political Hostility (ROPH) Project](https://ps.au.dk/forskning/forskningsprojekter/research-on-online-political-hostility). In my research, I examine the causes and consequences of online political hostility, including what people bring with them from their offline context in terms of psychological, sociological and political predispositions, and how it is translated into online behaviour. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Working papers
+[How the Public Form Judgements of Online Hate Speech](https://osf.io/7xvq6/)
 
-### Markdown
+## Other projects
+[Kowal, M., Coll‐Martín, T., Ikizer, G., Rasmussen, J., Eichel, K., Studzińska, A., Koszałkowska, K., Karwowski, M., Najmussaqib, A., Pankowski, D., Lieberoth, A., & Ahmed, O. (2020). Who is the most stressed during the COVID‐19 pandemic? Data from 26 countries and areas. Applied Psychology: Health and Well-Being.](https://doi.org/10.1111/aphw.12234)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Lieberoth, A., Lin, S.-Y., Stöckli, S., Han, H., Kowal, M., Gelpi, R., Chrona, S., Tran, T. P., Jeftić, A., Rasmussen, J., Cakal, H., & Milfont, T. L. (2021). Stress and worry in the 2020 coronavirus pandemic: Relationships to trust and compliance with preventive measures across 48 countries in the COVIDiSTRESS global survey. Royal Society Open Science, 8(2), 200589](https://doi.org/10.1098/rsos.200589)
 
-```markdown
-Syntax highlighted code block
+[Yamada, Y., Ćepulić, D.-B., Coll-Martín, T., Debove, S., Gautreau, G., Han, H., Rasmussen, J., Tran, T. P., Travaglino, G. A., & Lieberoth, A. (2021). COVIDiSTRESS Global Survey dataset on psychological and behavioural consequences of the COVID-19 outbreak. Scientific Data, 8(1), 3](https://doi.org/10.1038/s41597-020-00784-9)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jesper-rasmussen/jesper-rasmussen.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
