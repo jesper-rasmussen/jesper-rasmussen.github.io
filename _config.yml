@@ -1,5 +1,4 @@
 theme: jekyll-theme-slate
 
-[//]: # Fjerne "view on github"
 github:
   is_project_page: false
