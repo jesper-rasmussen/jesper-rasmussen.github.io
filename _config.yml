@@ -1,4 +1,7 @@
 theme: jekyll-theme-slate
 
+title: The title
+description: Description
+
 github:
   is_project_page: false
