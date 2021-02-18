@@ -1,7 +1,7 @@
 # Profile
 I am a PhD Fellow at Department of Political Science at Aarhus University. [My project](http://pure.au.dk/portal/en/jr@ps.au.dk) is a part of the [Research on Online Political Hostility (ROPH) Project](https://ps.au.dk/forskning/forskningsprojekter/research-on-online-political-hostility). In my research, I examine the causes and consequences of online political hostility, including what people bring with them from their offline context in terms of psychological, sociological and political predispositions, and how it is translated into online behaviour. 
 
-#### [Twitter](https://twitter.com/jrpsau)  [Google Scholar](https://scholar.google.com/citations?user=UAhCzv0AAAAJ&hl=da&oi=sra)  [Contact](mailto:jr@ps.au.dk)
+#### [Twitter](https://twitter.com/jrpsau) - [Google Scholar](https://scholar.google.com/citations?user=UAhCzv0AAAAJ&hl=da&oi=sra) - [Contact](mailto:jr@ps.au.dk)
 
 ## Working papers
 How the Public Form Judgements of Online Hate Speech [Working paper](https://osf.io/7xvq6/)
