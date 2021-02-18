@@ -1,4 +1,3 @@
-[//]: # Det her er til at kommentere
 I am a PhD Fellow at Department of Political Science at Aarhus University. [My project](http://pure.au.dk/portal/en/jr@ps.au.dk) is a part of the [Research on Online Political Hostility (ROPH) Project](https://ps.au.dk/forskning/forskningsprojekter/research-on-online-political-hostility). In my research, I examine the causes and consequences of online political hostility, including what people bring with them from their offline context in terms of psychological, sociological and political predispositions, and how it is translated into online behaviour. 
 
 ## Working papers
@@ -11,3 +10,4 @@ Lieberoth, A., Lin, S.-Y., Stöckli, S., Han, H., Kowal, M., Gelpi, R., Chrona, 
 
 Yamada, Y., Ćepulić, D.-B., Coll-Martín, T., Debove, S., Gautreau, G., Han, H., Rasmussen, J., Tran, T. P., Travaglino, G. A., & Lieberoth, A. (2021). [COVIDiSTRESS Global Survey dataset on psychological and behavioural consequences of the COVID-19 outbreak.](https://doi.org/10.1038/s41597-020-00784-9) Scientific Data, 8(1), 3.
 
+[//]: # Det her er til at kommentere
