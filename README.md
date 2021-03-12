@@ -16,4 +16,4 @@ Yamada, Y., Ćepulić, D.-B., Coll-Martín, T., Debove, S., Gautreau, G., Han, H
 ## Methods
 [Setup](https://github.com/jesper-rasmussen/Conjoint) for a paired vignette conjoint experiment in Qualtrics
 
-[//]: # Det her er til at kommentere
+
