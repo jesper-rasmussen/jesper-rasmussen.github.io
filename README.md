@@ -4,6 +4,9 @@ I am a PhD Fellow at Department of Political Science at Aarhus University. [My p
 [Twitter](https://twitter.com/jrpsau) - [Google Scholar](https://scholar.google.com/citations?user=UAhCzv0AAAAJ&hl=da&oi=sra) - [Contact](mailto:jr@ps.au.dk)
 
 ## Working papers
+
+Når bølgerne går højt (When feelings run high) Working paper
+
 How the Public Form Judgements of Online Hate Speech [Working paper](https://osf.io/7xvq6/)
 
 ## Other projects
