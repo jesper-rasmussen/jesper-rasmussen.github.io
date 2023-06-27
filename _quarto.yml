@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs    # for publishing via github pages (don't forget to add the .nojekyll file to the docs)
+  
+
+website:
+  title: "Jesper Rasmussen"
+  navbar:
+    right:
+      - icon: github
+        href: https://github.com/jesper-rasmussen
+      - icon: twitter
+        href: https://twitter.com/jrpsau 
+    left:
+      - href: index.qmd
+        text: Home
+      - research.qmd
+      - publications.qmd
+      - teaching.qmd
+
+format:
+  html:
+    theme: lux
+    css: styles.css
+    toc: true
+
+editor: visual
+
