@@ -1,56 +1,96 @@
 ---
 title: "Publications"
+editor: 
+  markdown: 
+    wrap: 72
 ---
 
-[Social media and Morality](https://psyarxiv.com/ywevq/) <br>
-with [Jay Van Bavel](https://www.jayvanbavel.com/), [Claire Robertson](https://scholar.google.com/citations?user=U86vr3EAAAAJ&hl=en&oi=ao), [Kareena del Rosario](https://scholar.google.com/citations?user=ZS2vTasAAAAJ&hl=en), [Steve Rathje](https://stevenrathje.com/) <br>
-*Forthcoming in Annual Review of Psychology*
+[Social media and Morality](https://psyarxiv.com/ywevq/) <br> with [Jay
+Van Bavel](https://www.jayvanbavel.com/), [Claire
+Robertson](https://scholar.google.com/citations?user=U86vr3EAAAAJ&hl=en&oi=ao),
+[Kareena del
+Rosario](https://scholar.google.com/citations?user=ZS2vTasAAAAJ&hl=en),
+[Steve Rathje](https://stevenrathje.com/) <br> *Forthcoming in Annual
+Review of Psychology*
 
+[Individual-level solutions may support system-level change -- if they
+are internalized as part of one's social
+identity](https://psyarxiv.com/3qvpb) <br> with [Lina
+Koppel](https://scholar.google.se/citations?user=hfioc6YAAAAJ&hl=sv),
+[Claire
+Robertson](https://scholar.google.com/citations?user=U86vr3EAAAAJ&hl=en&oi=ao),
+[Kim E. Doell](https://www.kimdoell.com/), [Ali
+Javeed](https://www.alijaveed.com/), [Steve
+Rathje](https://stevenrathje.com/), [Madalina
+Vlasceanu](https://www.mvlasceanu.com/), and [Jay Van
+Bavel](https://www.jayvanbavel.com/) <br> *Forthcoming in Behavioral and
+Brain Sciences*
 
-[Individual-level solutions may support system-level change – if they are internalized as part of one’s social identity](https://psyarxiv.com/3qvpb) <br>
-with [Lina Koppel](https://scholar.google.se/citations?user=hfioc6YAAAAJ&hl=sv), [Claire Robertson](https://scholar.google.com/citations?user=U86vr3EAAAAJ&hl=en&oi=ao), [Kim E. Doell](https://www.kimdoell.com/), [Ali Javeed](https://www.alijaveed.com/), [Steve Rathje](https://stevenrathje.com/), [Madalina Vlasceanu](https://www.mvlasceanu.com/), and [Jay Van Bavel](https://www.jayvanbavel.com/) <br>
-*Forthcoming in Behavioral and Brain Sciences*
+[Addressing Online Political
+Hostility](https://politica.dk/fileadmin/politica/Dokumenter/Afhandlinger/jesper_rasmussen.pdf)
+<br> *PhD Dissertation, 2023*
 
-[Addressing Online Political Hostility](https://politica.dk/fileadmin/politica/Dokumenter/Afhandlinger/jesper_rasmussen.pdf) <br>
-*PhD Dissertation, 2023*
+[Danskernes oplevelse af had på sociale medier. (English title: "The
+Danes' experiences of hate on social
+media")](https://pure.au.dk/portal/files/271291115/Danskernes_oplevelse_af_had_pa_de_sociale_medier_Rapport_Aarhus_Universitet_.pdf)
+<br> with Mathies Jæger Andresen, Simon Tobias Schulz Karg, Stig
+Hebbelstrup Rye Rasmussen, Lea Pradella, Lasse Lindekilde, and Michael
+Bang Petersen <br> *2022*
 
-[Danskernes oplevelse af had på sociale medier. (English title: "The Danes' experiences of hate on social media")](https://pure.au.dk/portal/files/271291115/Danskernes_oplevelse_af_had_pa_de_sociale_medier_Rapport_Aarhus_Universitet_.pdf) <br>
-with Mathies Jæger Andresen, Simon Tobias Schulz Karg, Stig Hebbelstrup Rye Rasmussen, Lea Pradella, Lasse Lindekilde, and Michael Bang Petersen <br>
-*2022*
+[Had, humor og bystander-reaktioner: danske unges reaktioner på politisk
+hadefulde memes (English title: "Hate, humor and by-stander-reactions:
+Danish Youth's reaction to hateful political
+memes")](https://doi.org/10.7146/politica.v54i2.132523) <br> with Lasse
+Lindekilde <br> *Politica 2022*
 
-[Had, humor og bystander-reaktioner: danske unges reaktioner på politisk hadefulde memes (English title: "Hate, humor and by-stander-reactions: Danish Youth's reaction to hateful political memes")](https://doi.org/10.7146/politica.v54i2.132523) <br>
-with Lasse Lindekilde <br>
-*Politica 2022*
+[Big Five traits predict stress and loneliness during the COVID-19
+pandemic: Evidence for the role of
+neuroticism](https://doi.org/10.1016/j.paid.2022.111531) <br> with
+Ikizer, G., Kowal, M., Aldemir, İ. D., Jeftić, A., Memisoglu-Sanli, A.,
+Najmussaqib, A., Lacko, D., Eichel, K., Turk, F., Chrona, S., Ahmed, O.,
+Kumaga, R., Uddin, M. K., Reynoso-Alcántara, V., Pankowski, D., &
+Coll-Martín, T. <br> *Personality and Individual Differences 2022*
 
-[Big Five traits predict stress and loneliness during the COVID-19 pandemic: Evidence for the role of neuroticism](https://doi.org/10.1016/j.paid.2022.111531) <br>
-with Ikizer, G., Kowal, M., Aldemir, İ. D., Jeftić, A., Memisoglu-Sanli, A., Najmussaqib, A., Lacko, D., Eichel, K., Turk, F., Chrona, S., Ahmed, O., Kumaga, R., Uddin, M. K., Reynoso-Alcántara, V., Pankowski, D., & Coll-Martín, T. <br>
-*Personality and Individual Differences 2022*
+[Stress and worry in the 2020 coronavirus pandemic: Relationships to
+trust and compliance with preventive measures across 48 countries in the
+COVIDiSTRESS global survey](https://doi.org/10.1098/rsos.200589) <br>
+with Lieberoth, A., Lin, S.-Y., Stöckli, S., Han, H., Kowal, M., Gelpi,
+R., Chrona, S., Tran, T. P., Jeftić, A., Cakal, H., & Milfont, T. L.
+<br> *Royal Society Open Science 2021*
 
-[Stress and worry in the 2020 coronavirus pandemic: Relationships to trust and compliance with preventive measures across 48 countries in the COVIDiSTRESS global survey](https://doi.org/10.1098/rsos.200589) <br>
-with Lieberoth, A., Lin, S.-Y., Stöckli, S., Han, H., Kowal, M., Gelpi, R., Chrona, S., Tran, T. P., Jeftić, A., Cakal, H., & Milfont, T. L. <br>
-*Royal Society Open Science 2021*
+[COVIDiSTRESS Global Survey dataset on psychological and behavioural
+consequences of the COVID-19
+outbreak.](https://doi.org/10.1038/s41597-020-00784-9) <br> with Yamada,
+Y., Ćepulić, D.-B., Coll-Martín, T., Debove, S., Gautreau, G., Han, H.,
+Tran, T. P., Travaglino, G. A., & Lieberoth, A. <br> *Scientific Data
+2021*
 
-[COVIDiSTRESS Global Survey dataset on psychological and behavioural consequences of the COVID-19 outbreak.](https://doi.org/10.1038/s41597-020-00784-9) <br>
-with Yamada, Y., Ćepulić, D.-B., Coll-Martín, T., Debove, S., Gautreau, G., Han, H., Tran, T. P., Travaglino, G. A., & Lieberoth, A. <br>
-*Scientific Data 2021*
+[Who is the most stressed during the COVID‐19 pandemic? Data from 26
+countries and areas](https://doi.org/10.1111/aphw.12234) <br> with
+Kowal, M., Coll‐Martín, T., Ikizer, G., Eichel, K., Studzińska, A.,
+Koszałkowska, K., Karwowski, M., Najmussaqib, A., Pankowski, D.,
+Lieberoth, A., & Ahmed, O. <br> *Applied Psychology: Health and
+Well-Being 2020*
 
+## Working papers
 
-[Who is the most stressed during the COVID‐19 pandemic? Data from 26 countries and areas](https://doi.org/10.1111/aphw.12234) <br>
-with Kowal, M., Coll‐Martín, T., Ikizer, G., Eichel, K., Studzińska, A., Koszałkowska, K., Karwowski, M., Najmussaqib, A., Pankowski, D., Lieberoth, A., & Ahmed, O. <br>
-*Applied Psychology: Health and Well-Being 2020*
+[Anti-Egalitarian Values Predict Opposition to Hate Speech
+Restrictions](https://psyarxiv.com/856z9/) <br> *under review*
 
+[Pathways To Online Political Hostility On Social
+Media](https://psyarxiv.com/r3y5u/) <br> *under review*
 
-## Working papers 
+What drives pro-social bystander reactions to online political
+hostility? <br> with Simon Tobias Karg, Tanja Marie Hansen, Lasse
+Lindekilde <br> *under review -
+[Preregistration](https://osf.io/bpmy3/)*
 
+[When Do the Public Support Hate Speech Restrictions? Symmetries and
+Asymmetries across Partisans in Denmark and the United
+States](https://psyarxiv.com/j4nuc/) <br> *under review -
+[Pre-registration](https://osf.io/7xvq6/)*
 
-[**Rasmussen, J.**, (under review)](https://psyarxiv.com/856z9/) Anti-Egalitarian Values Predict Opposition to Hate Speech Restrictions
-
-[**Rasmussen, J.**, (under review)](https://psyarxiv.com/r3y5u/) Ventilators, Colliders and Megaphones: Pathways To Online Political Hostility On Social Media
-
-What drives pro-social bystander reactions to online political hostility? <br>
-with Simon Tobias Karg, Tanja Marie Hansen, Lasse Lindekilde <br>
-*under review - [Preregistration](https://osf.io/bpmy3/)*
-
-[**Rasmussen Jesper** (under review)](https://psyarxiv.com/j4nuc/). When Do the Public Support Hate Speech Restrictions? Symmetries and Asymmetries across Partisans in Denmark and the United States - [Pre-registration](https://osf.io/7xvq6/)
-
-[**Rasmussen, Jesper**.; Lindekilde, Lasse; Petersen, Michael Bang, (revise and resubmit)](https://psyarxiv.com/8wdfp). Public health communication decreases false headline sharing by boosting self-efficacy - [Pre-registration](https://osf.io/3v6qk/)
+[Public health communication decreases false headline sharing and boosts
+self-efficacy](https://psyarxiv.com/8wdfp) <br> with Lasse Lindekilde
+and Michael Bang Petersen <br> *revise and resubmit -
+[Pre-registration](https://osf.io/3v6qk/)*
