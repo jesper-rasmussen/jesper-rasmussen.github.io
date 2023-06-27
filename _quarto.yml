@@ -21,7 +21,7 @@ website:
 format:
   html:
     theme: lux
-    css: styles.css
+    css: mystyles.css
     toc: true
 
 editor: visual
