@@ -5,7 +5,7 @@ editor:
     wrap: 72
 ---
 
-[Social media and Morality](https://psyarxiv.com/ywevq/) <br> with [Jay
+[Social media and Morality](https://www.annualreviews.org/doi/10.1146/annurev-psych-022123-110258?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed) <br> with [Jay
 Van Bavel](https://www.jayvanbavel.com/), [Claire
 Robertson](https://scholar.google.com/citations?user=U86vr3EAAAAJ&hl=en&oi=ao),
 [Kareena del
