@@ -5,29 +5,20 @@ editor:
     wrap: 72
 ---
 
+[Public Health Communication Reduces COVID-19 Misinformation Sharing and Boosts Self-Efficacy](https://cup.org/3QcmSwc) <br> with [Lasse Lindekilde](https://scholar.google.com/citations?user=McFYjR4AAAAJ&hl=en&oi=ao)
+and [Michael Bang Petersen](https://scholar.google.com/citations?hl=en&user=kmkQqPMAAAAJ) <br> *Journal of Experimental Political Science 2024* 
+
 [Social media and Morality](https://www.annualreviews.org/doi/10.1146/annurev-psych-022123-110258?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed) <br> with [Jay
 Van Bavel](https://www.jayvanbavel.com/), [Claire
 Robertson](https://scholar.google.com/citations?user=U86vr3EAAAAJ&hl=en&oi=ao),
 [Kareena del
 Rosario](https://scholar.google.com/citations?user=ZS2vTasAAAAJ&hl=en),
-[Steve Rathje](https://stevenrathje.com/) <br> *Forthcoming in Annual
-Review of Psychology*
+[Steve Rathje](https://stevenrathje.com/) <br> *Annual Review of Psychology 2024*
 
-[Individual-level solutions may support system-level change -- if they
-are internalized as part of one's social
-identity](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/individuallevel-solutions-may-support-systemlevel-change-a-if-they-are-internalized-as-part-of-ones-social-identity/821879C4D84800688291FA778B484AB8) <br> with [Lina
-Koppel](https://scholar.google.se/citations?user=hfioc6YAAAAJ&hl=sv),
-[Claire
-Robertson](https://scholar.google.com/citations?user=U86vr3EAAAAJ&hl=en&oi=ao),
-[Kim E. Doell](https://www.kimdoell.com/), [Ali
-Javeed](https://www.alijaveed.com/), [Steve
-Rathje](https://stevenrathje.com/), [Madalina
-Vlasceanu](https://www.mvlasceanu.com/), and [Jay Van
-Bavel](https://www.jayvanbavel.com/) <br> *Forthcoming in Behavioral and
-Brain Sciences*
+[Individual-level solutions may support system-level change -- if they are internalized as part of one's social identity](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/individuallevel-solutions-may-support-systemlevel-change-a-if-they-are-internalized-as-part-of-ones-social-identity/821879C4D84800688291FA778B484AB8) <br> with [Lina Koppel](https://scholar.google.se/citations?user=hfioc6YAAAAJ&hl=sv), [Claire Robertson](https://scholar.google.com/citations?user=U86vr3EAAAAJ&hl=en&oi=ao),
+[Kim E. Doell](https://www.kimdoell.com/), [Ali Javeed](https://www.alijaveed.com/), [Steve Rathje](https://stevenrathje.com/), [Madalina Vlasceanu](https://www.mvlasceanu.com/), and [Jay Van Bavel](https://www.jayvanbavel.com/) <br> *Behavioral and Brain Sciences*
 
-[Addressing Online Political
-Hostility](https://politica.dk/fileadmin/politica/Dokumenter/Afhandlinger/jesper_rasmussen.pdf)
+[Addressing Online Political Hostility](https://politica.dk/fileadmin/politica/Dokumenter/Afhandlinger/jesper_rasmussen.pdf)
 <br> *PhD Dissertation, 2023*
 
 [Danskernes oplevelse af had på sociale medier. (English title: "The
@@ -74,23 +65,15 @@ Well-Being 2020*
 
 ## Working papers
 
-[Anti-Egalitarian Values Predict Opposition to Hate Speech
-Restrictions](https://psyarxiv.com/856z9/) <br> *under review*
-
-[Pathways To Online Political Hostility On Social
-Media](https://psyarxiv.com/r3y5u/) <br> *under review*
-
-What drives pro-social bystander reactions to online political
-hostility? <br> with Simon Tobias Karg, Tanja Marie Hansen, Lasse
-Lindekilde <br> *under review -
-[Preregistration](https://osf.io/bpmy3/)*
-
-[When Do the Public Support Hate Speech Restrictions? Symmetries and
-Asymmetries across Partisans in Denmark and the United
-States](https://psyarxiv.com/j4nuc/) <br> *under review -
+[The (limited) effects of target characteristics on public opinion of hate speech laws](https://psyarxiv.com/j4nuc/) <br> *under review -
 [Pre-registration](https://osf.io/7xvq6/)*
 
-[Public health communication decreases false headline sharing and boosts
-self-efficacy](https://psyarxiv.com/8wdfp) <br> with Lasse Lindekilde
-and Michael Bang Petersen <br> *revise and resubmit -
-[Pre-registration](https://osf.io/3v6qk/)*
+[Anti-Egalitarian Values Predict Opposition to Hate SpeechRestrictions](https://psyarxiv.com/856z9/) <br> *under review*
+
+[Pathways To Online Political Hostility On Social Media](https://psyarxiv.com/r3y5u/) <br> *under review*
+
+What drives pro-social bystander reactions to online political hostility? <br> with Simon Tobias Karg, Tanja Marie Hansen, Lasse Lindekilde <br> *under review - [Preregistration](https://osf.io/bpmy3/)*
+
+
+
+
