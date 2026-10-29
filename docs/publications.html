@@ -165,12 +165,26 @@ ul.task-list li input[type="checkbox"] {
 .pub > p { margin-bottom: .25rem; }
 .pub-links { display: flex; flex-wrap: wrap; gap: .4rem; margin-top: .35rem; }
 .pub-links p { display: contents; }
-.pub-links a { display: inline-block; padding: .05rem .55rem; border: 1px solid var(--bs-border-color); border-radius: 3px; }
+.pub-links a, .pub-filters button { display: inline-block; padding: .05rem .55rem; border: 1px solid var(--bs-border-color); border-radius: 3px; }
 .pub-links a:hover, .pub-links a[aria-expanded="true"] { border-color: currentColor; }
+.pub-filters { display: flex; flex-wrap: wrap; gap: .4rem; margin-bottom: 1.75rem; }
+.pub-filters button { background: transparent; color: var(--bs-link-color); font: inherit; font-weight: 400; letter-spacing: 1px; line-height: inherit; cursor: pointer; }
+.pub-filters button:hover, .pub-filters button[aria-pressed="true"] { border-color: currentColor; }
 .pub-abstract { margin: .5rem 0 0; padding-left: 1rem; border-left: 1px solid var(--bs-border-color); }
 .pub-abstract p:last-child { margin-bottom: 0; }
 </style>
-<div class="pub">
+<div class="pub-filters" role="group" aria-label="Filter publications by topic">
+  <button type="button" data-filter="all" aria-pressed="true">All</button>
+  <button type="button" data-filter="key" aria-pressed="false">Key publications</button>
+  <button type="button" data-filter="hostility" aria-pressed="false">Online hostility</button>
+  <button type="button" data-filter="regulation" aria-pressed="false">Regulation &amp; moderation</button>
+  <button type="button" data-filter="interventions" aria-pressed="false">Interventions</button>
+  <button type="button" data-filter="bystanders" aria-pressed="false">Bystanders and audiences</button>
+  <button type="button" data-filter="news" aria-pressed="false">Social media and online engagement</button>
+  <button type="button" data-filter="misinfo" aria-pressed="false">News consumption and misinformation</button>
+  <button type="button" data-filter="covid" aria-pressed="false">COVID-19</button>
+</div>
+<div class="pub" data-tags="key hostility regulation">
 <p><a href="https://doi.org/10.1080/10584609.2026.2754162">The Effects of Target Characteristics on Public Support for Hate Speech Laws</a> <br> <em>Political Communication 2026</em></p>
 <div class="pub-links">
 <p><a href="#abs-targeteffects" class="collapsed" role="button" data-bs-toggle="collapse" aria-expanded="false" aria-controls="abs-targeteffects">Abstract</a> <a href="papers/rasmussen_targeteffects.pdf">PDF</a> <a href="https://doi.org/10.1080/10584609.2026.2754162">Journal</a></p>
@@ -181,7 +195,7 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 </div>
-<div class="pub">
+<div class="pub" data-tags="hostility regulation interventions bystanders">
 <p><a href="https://doi.org/10.1080/19331681.2026.2720554">Crowd-moderation of hateful content on social media: mobilizing bystanders through scalable interventions</a> <br> with <a href="https://pure.au.dk/portal/da/persons/ksj%40ps.au.dk/">Kristoffer Skovgaard Jensen</a>, <a href="https://scholar.google.com/citations?user=R0RurlgAAAAJ&amp;hl=da">Tanja Marie Hansen</a>, <a href="https://scholar.google.com/citations?hl=en&amp;user=4kuuPRUAAAAJ&amp;view_op=list_works&amp;sortby=pubdate">Simon Tobias Karg</a>, <a href="https://scholar.google.com/citations?hl=en&amp;user=ZEN_Z2UAAAAJ">John Cook</a>, <a href="https://scholar.google.com/citations?hl=en&amp;user=aA5lZiAAAAAJ&amp;view_op=list_works&amp;sortby=pubdate">Iain Walker</a>, and <a href="https://scholar.google.com/citations?user=McFYjR4AAAAJ&amp;hl=en&amp;oi=ao">Lasse Lindekilde</a> <br> <em>Journal of Information Technology &amp; Politics 2026</em></p>
 <div class="pub-links">
 <p><a href="#abs-crowdmod" class="collapsed" role="button" data-bs-toggle="collapse" aria-expanded="false" aria-controls="abs-crowdmod">Abstract</a> <a href="https://doi.org/10.1080/19331681.2026.2720554">Journal</a></p>
@@ -192,7 +206,7 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 </div>
-<div class="pub">
+<div class="pub" data-tags="key hostility news">
 <p><a href="https://doi.org/10.1177/14614448251412860">Toxic speech as political participation: How social media users justify toxicity in political discussions</a> <br> <em>New Media &amp; Society 2026</em></p>
 <div class="pub-links">
 <p><a href="#abs-toxic" class="collapsed" role="button" data-bs-toggle="collapse" aria-expanded="false" aria-controls="abs-toxic">Abstract</a> <a href="https://doi.org/10.1177/14614448251412860">Journal</a></p>
@@ -203,7 +217,7 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 </div>
-<div class="pub">
+<div class="pub" data-tags="key interventions covid misinfo bystanders">
 <p><a href="https://cup.org/3QcmSwc">Public Health Communication Reduces COVID-19 Misinformation Sharing and Boosts Self-Efficacy</a> <br> with <a href="https://scholar.google.com/citations?user=McFYjR4AAAAJ&amp;hl=en&amp;oi=ao">Lasse Lindekilde</a> and <a href="https://scholar.google.com/citations?hl=en&amp;user=kmkQqPMAAAAJ">Michael Bang Petersen</a> <br> <em>Journal of Experimental Political Science 2024</em></p>
 <div class="pub-links">
 <p><a href="#abs-pubhealth" class="collapsed" role="button" data-bs-toggle="collapse" aria-expanded="false" aria-controls="abs-pubhealth">Abstract</a> <a href="https://cup.org/3QcmSwc">Journal</a></p>
@@ -214,7 +228,7 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 </div>
-<div class="pub">
+<div class="pub" data-tags="key news">
 <p><a href="https://www.annualreviews.org/doi/10.1146/annurev-psych-022123-110258?url_ver=Z39.88-2003&amp;rfr_id=ori%3Arid%3Acrossref.org&amp;rfr_dat=cr_pub++0pubmed">Social media and Morality</a> <br> with <a href="https://www.jayvanbavel.com/">Jay Van Bavel</a>, <a href="https://scholar.google.com/citations?user=U86vr3EAAAAJ&amp;hl=en&amp;oi=ao">Claire Robertson</a>, <a href="https://scholar.google.com/citations?user=ZS2vTasAAAAJ&amp;hl=en">Kareena del Rosario</a>, <a href="https://stevenrathje.com/">Steve Rathje</a> <br> <em>Annual Review of Psychology 2024</em></p>
 <div class="pub-links">
 <p><a href="#abs-morality" class="collapsed" role="button" data-bs-toggle="collapse" aria-expanded="false" aria-controls="abs-morality">Abstract</a> <a href="https://www.annualreviews.org/doi/10.1146/annurev-psych-022123-110258?url_ver=Z39.88-2003&amp;rfr_id=ori%3Arid%3Acrossref.org&amp;rfr_dat=cr_pub++0pubmed">Journal</a></p>
@@ -225,7 +239,7 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 </div>
-<div class="pub">
+<div class="pub" data-tags="interventions">
 <p><a href="https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/individuallevel-solutions-may-support-systemlevel-change-a-if-they-are-internalized-as-part-of-ones-social-identity/821879C4D84800688291FA778B484AB8">Individual-level solutions may support system-level change – if they are internalized as part of one’s social identity</a> <br> with <a href="https://scholar.google.se/citations?user=hfioc6YAAAAJ&amp;hl=sv">Lina Koppel</a>, <a href="https://scholar.google.com/citations?user=U86vr3EAAAAJ&amp;hl=en&amp;oi=ao">Claire Robertson</a>, <a href="https://www.kimdoell.com/">Kim E. Doell</a>, <a href="https://www.alijaveed.com/">Ali Javeed</a>, <a href="https://stevenrathje.com/">Steve Rathje</a>, <a href="https://www.mvlasceanu.com/">Madalina Vlasceanu</a>, and <a href="https://www.jayvanbavel.com/">Jay Van Bavel</a> <br> <em>Behavioral and Brain Sciences 2023</em></p>
 <div class="pub-links">
 <p><a href="#abs-bbs" class="collapsed" role="button" data-bs-toggle="collapse" aria-expanded="false" aria-controls="abs-bbs">Abstract</a> <a href="https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/individuallevel-solutions-may-support-systemlevel-change-a-if-they-are-internalized-as-part-of-ones-social-identity/821879C4D84800688291FA778B484AB8">Journal</a></p>
@@ -236,7 +250,7 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 </div>
-<div class="pub">
+<div class="pub" data-tags="hostility regulation">
 <p><a href="https://politica.dk/politicas-phd-serie/jesper-rasmussen">Addressing Online Political Hostility</a> <br> <em>PhD Dissertation, 2023</em></p>
 <div class="pub-links">
 <p><a href="#abs-dissertation" class="collapsed" role="button" data-bs-toggle="collapse" aria-expanded="false" aria-controls="abs-dissertation">Abstract</a> <a href="https://politica.dk/fileadmin/politica/Dokumenter/Afhandlinger/jesper_rasmussen.pdf">PDF</a> <a href="https://politica.dk/politicas-phd-serie/jesper-rasmussen">Journal</a></p>
@@ -247,13 +261,13 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 </div>
-<div class="pub">
+<div class="pub" data-tags="hostility bystanders">
 <p><a href="https://pure.au.dk/portal/files/271291115/Danskernes_oplevelse_af_had_pa_de_sociale_medier_Rapport_Aarhus_Universitet_.pdf">Danskernes oplevelse af had på sociale medier. (English title: “The Danes’ experiences of hate on social media”)</a> <br> with Mathies Jæger Andresen, Simon Tobias Schulz Karg, Stig Hebbelstrup Rye Rasmussen, Lea Pradella, Lasse Lindekilde, and Michael Bang Petersen <br> <em>2022</em></p>
 <div class="pub-links">
 <p><a href="https://pure.au.dk/portal/files/271291115/Danskernes_oplevelse_af_had_pa_de_sociale_medier_Rapport_Aarhus_Universitet_.pdf">PDF</a></p>
 </div>
 </div>
-<div class="pub">
+<div class="pub" data-tags="hostility bystanders">
 <p><a href="https://doi.org/10.7146/politica.v54i2.132523">Had, humor og bystander-reaktioner: danske unges reaktioner på politisk hadefulde memes (English title: “Hate, humor and by-stander-reactions: Danish Youth’s reaction to hateful political memes”)</a> <br> with Lasse Lindekilde <br> <em>Politica 2022 · Article of the Year Award</em></p>
 <div class="pub-links">
 <p><a href="#abs-politica" class="collapsed" role="button" data-bs-toggle="collapse" aria-expanded="false" aria-controls="abs-politica">Abstract</a> <a href="https://doi.org/10.7146/politica.v54i2.132523">Journal</a></p>
@@ -264,7 +278,7 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 </div>
-<div class="pub">
+<div class="pub" data-tags="covid">
 <p><a href="https://doi.org/10.1016/j.paid.2022.111531">Big Five traits predict stress and loneliness during the COVID-19 pandemic: Evidence for the role of neuroticism</a> <br> with Ikizer, G., Kowal, M., Aldemir, İ. D., Jeftić, A., Memisoglu-Sanli, A., Najmussaqib, A., Lacko, D., Eichel, K., Turk, F., Chrona, S., Ahmed, O., Kumaga, R., Uddin, M. K., Reynoso-Alcántara, V., Pankowski, D., &amp; Coll-Martín, T. <br> <em>Personality and Individual Differences 2022</em></p>
 <div class="pub-links">
 <p><a href="#abs-bigfive" class="collapsed" role="button" data-bs-toggle="collapse" aria-expanded="false" aria-controls="abs-bigfive">Abstract</a> <a href="https://doi.org/10.1016/j.paid.2022.111531">Journal</a></p>
@@ -275,7 +289,7 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 </div>
-<div class="pub">
+<div class="pub" data-tags="covid">
 <p><a href="https://doi.org/10.1098/rsos.200589">Stress and worry in the 2020 coronavirus pandemic: Relationships to trust and compliance with preventive measures across 48 countries in the COVIDiSTRESS global survey</a> <br> with Lieberoth, A., Lin, S.-Y., Stöckli, S., Han, H., Kowal, M., Gelpi, R., Chrona, S., Tran, T. P., Jeftić, A., Cakal, H., &amp; Milfont, T. L. <br> <em>Royal Society Open Science 2021</em></p>
 <div class="pub-links">
 <p><a href="#abs-stressworry" class="collapsed" role="button" data-bs-toggle="collapse" aria-expanded="false" aria-controls="abs-stressworry">Abstract</a> <a href="https://doi.org/10.1098/rsos.200589">Journal</a></p>
@@ -286,7 +300,7 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 </div>
-<div class="pub">
+<div class="pub" data-tags="covid">
 <p><a href="https://doi.org/10.1038/s41597-020-00784-9">COVIDiSTRESS Global Survey dataset on psychological and behavioural consequences of the COVID-19 outbreak.</a> <br> with Yamada, Y., Ćepulić, D.-B., Coll-Martín, T., Debove, S., Gautreau, G., Han, H., Tran, T. P., Travaglino, G. A., &amp; Lieberoth, A. <br> <em>Scientific Data 2021</em></p>
 <div class="pub-links">
 <p><a href="#abs-dataset" class="collapsed" role="button" data-bs-toggle="collapse" aria-expanded="false" aria-controls="abs-dataset">Abstract</a> <a href="https://doi.org/10.1038/s41597-020-00784-9">Journal</a></p>
@@ -297,7 +311,7 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 </div>
-<div class="pub">
+<div class="pub" data-tags="covid">
 <p><a href="https://doi.org/10.1111/aphw.12234">Who is the most stressed during the COVID‐19 pandemic? Data from 26 countries and areas</a> <br> with Kowal, M., Coll‐Martín, T., Ikizer, G., Eichel, K., Studzińska, A., Koszałkowska, K., Karwowski, M., Najmussaqib, A., Pankowski, D., Lieberoth, A., &amp; Ahmed, O. <br> <em>Applied Psychology: Health and Well-Being 2020</em></p>
 <div class="pub-links">
 <p><a href="#abs-moststressed" class="collapsed" role="button" data-bs-toggle="collapse" aria-expanded="false" aria-controls="abs-moststressed">Abstract</a> <a href="https://doi.org/10.1111/aphw.12234">Journal</a></p>
@@ -313,7 +327,7 @@ ul.task-list li input[type="checkbox"] {
 </div>
 <section id="working-papers" class="level2">
 <h2 class="anchored" data-anchor-id="working-papers">Working papers</h2>
-<div class="pub">
+<div class="pub" data-tags="hostility regulation interventions bystanders news">
 <p>Speak Up, Report, Support – Mobilizing Pro-social Bystander Reactions to Online Hate <br> with <a href="https://scholar.google.com/citations?hl=en&amp;user=4kuuPRUAAAAJ&amp;view_op=list_works&amp;sortby=pubdate">Simon Tobias Karg</a>, <a href="https://scholar.google.com/citations?user=R0RurlgAAAAJ&amp;hl=da">Tanja Marie Hansen</a>, and <a href="https://scholar.google.com/citations?user=McFYjR4AAAAJ&amp;hl=en&amp;oi=ao">Lasse Lindekilde</a> <br> <em>Revise and resubmit, Nature Communications</em></p>
 <div class="pub-links">
 <p><a href="#abs-speakup" class="collapsed" role="button" data-bs-toggle="collapse" aria-expanded="false" aria-controls="abs-speakup">Abstract</a></p>
@@ -324,7 +338,7 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 </div>
-<div class="pub">
+<div class="pub" data-tags="hostility regulation bystanders news">
 <p>Partisan Motivations Simultaneously Fuel Online Toxicity and Online Counter-speech <br> with <a href="https://scholar.google.com/citations?user=R0RurlgAAAAJ&amp;hl=da">Tanja Marie Hansen</a>, <a href="https://scholar.google.com/citations?hl=en&amp;user=4kuuPRUAAAAJ&amp;view_op=list_works&amp;sortby=pubdate">Simon Tobias Karg</a>, <a href="https://scholar.google.com/citations?hl=en&amp;user=kmkQqPMAAAAJ">Michael Bang Petersen</a>, and <a href="https://scholar.google.com/citations?user=McFYjR4AAAAJ&amp;hl=en&amp;oi=ao">Lasse Lindekilde</a> <br> <em>Revise and resubmit, Journal of Politics</em></p>
 <div class="pub-links">
 <p><a href="#abs-partisan" class="collapsed" role="button" data-bs-toggle="collapse" aria-expanded="false" aria-controls="abs-partisan">Abstract</a></p>
@@ -335,7 +349,7 @@ ul.task-list li input[type="checkbox"] {
 </div>
 </div>
 </div>
-<div class="pub">
+<div class="pub" data-tags="hostility news misinfo">
 <p><a href="https://doi.org/10.31234/osf.io/h3cn5_v1">Negative Emotions, Identity-Oriented Language, and Online News Consumption</a> <br> with <a href="https://stevenrathje.com/">Steve Rathje</a>, <a href="https://scholar.google.com/citations?user=U86vr3EAAAAJ&amp;hl=en&amp;oi=ao">Claire Robertson</a>, and <a href="https://www.jayvanbavel.com/">Jay J. Van Bavel</a> <br> <em>Revise and resubmit, PNAS Nexus</em></p>
 <div class="pub-links">
 <p><a href="#abs-negativity" class="collapsed" role="button" data-bs-toggle="collapse" aria-expanded="false" aria-controls="abs-negativity">Abstract</a> <a href="https://doi.org/10.31234/osf.io/h3cn5_v1">Preprint</a></p>
@@ -355,6 +369,27 @@ document.addEventListener("DOMContentLoaded", function () {
       if (btn) btn.remove();
       box.remove();
     }
+  });
+});
+// Topic filters: show only papers tagged with the chosen topic.
+document.addEventListener("DOMContentLoaded", function () {
+  var buttons = document.querySelectorAll(".pub-filters button");
+  var pubs = document.querySelectorAll(".pub[data-tags]");
+  function apply(tag) {
+    buttons.forEach(function (b) {
+      b.setAttribute("aria-pressed", b.dataset.filter === tag ? "true" : "false");
+    });
+    pubs.forEach(function (p) {
+      p.hidden = !(tag === "all" || p.dataset.tags.split(" ").indexOf(tag) !== -1);
+    });
+    // Hide a section heading (e.g. "Working papers") when none of its papers match.
+    document.querySelectorAll("section.level2").forEach(function (sec) {
+      var h = sec.querySelector("h2");
+      if (h && sec.querySelector(".pub")) h.hidden = !sec.querySelector(".pub:not([hidden])");
+    });
+  }
+  buttons.forEach(function (b) {
+    b.addEventListener("click", function () { apply(b.dataset.filter); });
   });
 });
 </script>
